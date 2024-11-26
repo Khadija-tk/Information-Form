@@ -1,0 +1,39 @@
+input[type=text],
+select {
+    width: 100%;
+    padding: 14px 18px;
+    margin: 8px 2px;
+    display: inline-block;
+    border: 1px solid #af4c7a;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 100%;
+    background-color: #af4c7a;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size:large;
+  }
+  input[type=submit]:hover{
+    background-color: #ba7897;
+    color: black;
+  }
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  body{
+    background-color: #9c016145;
+  }
+ .trans{
+  width: 50%;
+  margin-left: 340px;
+  margin-top: 80px;
+  border: solid 5px #af4c7a;
+ }
